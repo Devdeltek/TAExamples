@@ -1,6 +1,6 @@
 import java.lang.Math;
 
-public class myClass{
+public class bubbleSort{
 
 	public static void main(String[] args){
 
@@ -21,6 +21,7 @@ public class myClass{
 		for(int i = 0; i < nums.length; i++){
 			System.out.print(nums[i] + ", ");
 		}
+
 	}
 
 	public static void swap(int[] nums, int spot1, int spot2){

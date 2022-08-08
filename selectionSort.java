@@ -19,6 +19,7 @@ public class myClass{
 					smallest = j;
 				}
 			}
+			
 			swap(nums, i, smallest);
 		}
 
